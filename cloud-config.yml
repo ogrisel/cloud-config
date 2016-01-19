@@ -1,0 +1,5 @@
+#cloud-config
+
+# include one or more SSH public keys
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDdqQ8G61QOIu0CQGOl/YV69/tU4IMojvaDmaKPROCT04xVtdpX/MPJ6BbUc/IKh7DfeaiWNMN3LMBMrlb0kDC/w13dkAmMWWLATIGyS5vgadAkcnSXJWhn+KoyLaRyy0EjRPWwbsi/bj51Yxq0tWHVf1qCqZ8WEEBb9UX+b1+jNWhWu5SFooMdGNEMOaW7pBf8BGxzP5HPYJJ4TGGX0Lou9V3D0HS4x8sIUFHeMSzQY93LXmqg+n6wm576h5Vhu2+W6SNNR+a5TfVZ93ib0md+axSv/cQXhdcbrVjSftJVfkl+zlrOug/PI6PTc+CXgHF4R0vWqxCsPo70lhjVEKNr ogrisel@host.local
